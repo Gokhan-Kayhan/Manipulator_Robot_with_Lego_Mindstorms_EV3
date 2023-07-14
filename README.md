@@ -2,6 +2,8 @@
 
 ## About the Project
 
+<img src="figures/Picture 1.png"  />  
+
 <img src="figures/2.gif"  />  
 
 ---
