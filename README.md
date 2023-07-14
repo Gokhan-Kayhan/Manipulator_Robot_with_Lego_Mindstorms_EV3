@@ -11,7 +11,7 @@ There are 3 different stations and in each task, the ball should be picked up an
 
 The sonic sensor on top of gripper, alwasys calculate the distance between gripper and ball. But this data can not be used directly becase the height of the stations changed during the tasks.
 
-Therefore, inverse kinematic was used. In this way, the angle between robot arms is expressed in terms of distance between gripper and ball.
+Therefore, inverse kinematic was used and the angle between robot arms is expressed in terms of distance between gripper and ball. In this way a dynamic system which can adapt the differences at the environment was obtained.
 
 
 [//]: # (<img src="figures/Picture 1.png"/>)
