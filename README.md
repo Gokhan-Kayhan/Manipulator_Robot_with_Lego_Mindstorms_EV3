@@ -20,6 +20,7 @@ Therefore, inverse kinematic was used. In this way, the angle between robot arms
 
 <img src="figures/3.gif"  />  
 
+---
 
 **Authors**  
 Elchin Ismatli @ University of Siegen  
