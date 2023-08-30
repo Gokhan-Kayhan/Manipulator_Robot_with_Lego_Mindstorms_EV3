@@ -6,6 +6,7 @@ This project was prepared as the practical assignment of **"Mechatronic Systems"
 
 <img src="figures/2.gif"  />  
 
+</br >
 
 There are 3 different stations and in each task, the ball should be picked up and placed in another station. We started by measuring the physical properties of the robot and sketched its section view.  
 
